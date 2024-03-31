@@ -21,3 +21,7 @@
  - [ ] create fier lamp
  - [ ] internet radio for sounds on ESP ((http://localhost:5000/ird/m) and (http://localhost:5000/ird/mvov))(localhost is ip)
 supreme-wallaby-assured.ngrok-free.app
+Разработчики:
+
+![gvit0](https://img.shields.io/badge/gvit-0-blue) ![MaxiMax9055](https://img.shields.io/badge/MaxiMax-9055-green)
+![error890](https://img.shields.io/badge/ERROR-%20890-purple)
